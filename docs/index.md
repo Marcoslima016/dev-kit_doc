@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# Guia de uso extensão Dev Kit 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
+#Introdução
 
-## Commands
+Dev Kit é uma extensão que disponibiliza um conjunto de recursos para auxiliar no desenvolvimento de aplicações. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+<div style='height: 20px'></div>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+#Recursos
+
+<!-- <div style='height: 5px'></div> -->
+
+###Gerenciamento de projeto 
+
+- Iniciar Projeto: Comando que inicializa um novo projeto, onde é criada a estrutura de pastas do projeto, que será composta de diretórios referente a documentações e aplicações. 
+
+<div style='height: 2px'></div>
+
+
+
+###Desenvolvimento de aplicações 
+
+- Criar nova aplicação **(Em breve)**
+
+
+<div style='height: 45px'></div>

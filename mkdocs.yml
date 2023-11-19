@@ -11,23 +11,51 @@ markdown_extensions:
 
 
 nav:
+  # - Introdução: setup/android.md  
   - Introdução:
-    - Android: setup/android.md       
-  # - Domain: 
-  #   - Introdução: domain/introducao.md     
-  #   - Eventos: null.md
-  #   - Empresas: null.md
-  #   - Detalhe empresa: null.md
-  #   - Prêmios: null.md
-  # - Auth: 
-  #   - Introdução: auth/introducao.md
+    - Primeiros passos: intro/first_steps.md     
+  - Desenvolvimento de aplicações Mobile:
+    - Intro: dev_mobile/intro.md
+    - Criar a aplicação: dev_mobile/criar.md
+  - Desenvolvimento de aplicações Web: null.md 
+  - Desenvolvimento de aplicações Web Standard: null.md 
+  - Commands: null.md 
+  - Snippets:   null.md 
+
+
 
 theme:
   name: null
   custom_dir: mkdocs-material/material
-
   palette:
-    primary: black
+    primary: indigo
+  # palette:
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: slate
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to light mode
+
+
+  # palette:
+  #   primary: indigo
+
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: slate
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
+  # palette:
+  # - scheme: default
+  #   toggle:
+  #     icon: material/toggle-switch-off-outline
+  #     name: Switch to dark mode
+  # - scheme: slate
+  #   toggle:
+  #     icon: material/toggle-switch
+  #     name: Switch to light mode 
+
+
 
   # features:
   #   - navigation.expand
@@ -48,3 +76,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+
+
+extra_css:
+  - stylesheets/extra.css    
