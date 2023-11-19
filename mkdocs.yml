@@ -11,16 +11,18 @@ markdown_extensions:
 
 
 nav:
+  - Visão geral: index.md
+  - Gerenciamentos de projeto: gerenciamento_projeto/gerenciamento_projeto.md
   # - Introdução: setup/android.md  
-  - Introdução:
-    - Primeiros passos: intro/first_steps.md     
-  - Desenvolvimento de aplicações Mobile:
-    - Intro: dev_mobile/intro.md
-    - Criar a aplicação: dev_mobile/criar.md
-  - Desenvolvimento de aplicações Web: null.md 
-  - Desenvolvimento de aplicações Web Standard: null.md 
-  - Commands: null.md 
-  - Snippets:   null.md 
+  # - Introdução:
+  #   - Primeiros passos: intro/first_steps.md     
+  # - Desenvolvimento de aplicações Mobile:
+  #   - Intro: dev_mobile/intro.md
+  #   - Criar a aplicação: dev_mobile/criar.md
+  # - Desenvolvimento de aplicações Web: null.md 
+  # - Desenvolvimento de aplicações Web Standard: null.md 
+  # - Commands: null.md 
+  # - Snippets:   null.md 
 
 
 

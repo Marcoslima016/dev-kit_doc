@@ -45,6 +45,7 @@ table {
 .md-typeset h1 {
   color: black;
   font-weight: 700;
+  margin-bottom: 5px;
 }
 
 .md-typeset h2 {
